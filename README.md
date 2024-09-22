@@ -33,7 +33,7 @@ Bu proje [RENDER.com](https://render.com/) kullanılarak deploy edilmiştir. DEP
 
 1. Bu projeyi klonlayın:
     ```bash
-    git clone https://github.com/sizin-kullanici-adiniz/ucus-rezervasyon.git
+    git clone https://github.com/zumrakb/flight-booking.git
     ```
 
 2. Proje dizinine girin ve gerekli paketleri yükleyin:
