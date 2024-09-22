@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00dba439.css",
+    "main.js": "/static/js/main.2edd6fa8.js",
+    "static/media/photo3.jpg": "/static/media/photo3.23e1b12483370bdb7a2c.jpg",
+    "static/media/profile.jpg": "/static/media/profile.fa2ab4c2acf520e2eb38.jpg",
+    "static/media/thy.png": "/static/media/thy.fa2c27eaaadae1bc150c.png",
+    "static/media/photo1.jpg": "/static/media/photo1.5a0917e3af79551deac8.jpg",
+    "static/media/flightlogo.png": "/static/media/flightlogo.e16b8b4eebada1ebe838.png",
+    "static/media/photo2.jpg": "/static/media/photo2.c534a170871ff6f01db6.jpg",
+    "index.html": "/index.html",
+    "main.00dba439.css.map": "/static/css/main.00dba439.css.map",
+    "main.2edd6fa8.js.map": "/static/js/main.2edd6fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00dba439.css",
+    "static/js/main.2edd6fa8.js"
+  ]
+}
