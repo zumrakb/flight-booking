@@ -47,11 +47,19 @@ Bu proje [RENDER.com](https://render.com/) kullanılarak deploy edilmiştir. DEP
     cd backend
     ```
 
-4. Backend'i çalıştırmak için (proje backend'de build edildi. Backend klasöründe npm start yazıldıktan sonra, proje direkt çalışmaya başlar.)
+4. Backend'i çalıştırmak için:
     ```bash
     npm start
     ```
+5. Fronted dizinine geçin:
+    ```bash
+    cd frontend
+    ```
 
+6. Frontend'i çalıştırmak için:
+    ```bash
+    npm start
+    ```
 
 # Uçuş Rezervasyon Uygulaması
 
