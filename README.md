@@ -1,5 +1,5 @@
 
-# Uçuş Rezervasyon Uygulaması
+# Flight Booking App
 
 Bu proje, React.js, Tailwind CSS ve Node.js kullanılarak oluşturulmuş bir uçuş rezervasyon sistemidir. Kullanıcılar, uçuş bilgilerini görüntüleyebilir, filtreleyebilir ve rezervasyonlarını yönetebilir. 
 
