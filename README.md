@@ -59,9 +59,20 @@ Bu proje [RENDER.com](https://render.com/) kullanılarak deploy edilmiştir. DEP
 
 
 ## Ekran Görüntüleri
-Loading ekranı
+
+1- UÇUŞLARIN LİSTELENDİĞİ EKRAN:
+![image](https://github.com/user-attachments/assets/7ef8f0bd-7b90-4609-b2ed-419856d3d017)
+
+2- UÇUŞLARIM EKRANI:
+![image](https://github.com/user-attachments/assets/8d4b287b-bdcb-4a3b-900b-f461d79c07e8)
+
+3- Loading ekranı
 ![image](https://github.com/user-attachments/assets/79cf1bca-4b80-4c58-a912-32eaddc52d6c)
 
+4- TOASTIFY GERİ BİLDİRİMLERİ:
+![Ekran görüntüsü 2024-09-23 005113](https://github.com/user-attachments/assets/3ea85737-60af-4d9b-b985-695b2757b5b1)
+![Ekran görüntüsü 2024-09-23 005057](https://github.com/user-attachments/assets/2d5a3a53-09a9-4575-a6c5-5b99aa3a6895)
+![Ekran görüntüsü 2024-09-23 005041](https://github.com/user-attachments/assets/0b48c773-f77b-4996-ad69-9ca1cf2d5e52)
 
 ## Lisans
 
