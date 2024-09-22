@@ -38,7 +38,7 @@ Bu proje [RENDER.com](https://render.com/) kullanılarak deploy edilmiştir. DEP
 
 2. Proje dizinine girin ve gerekli paketleri yükleyin:
     ```bash
-    cd ucus-rezervasyon
+    cd flight-booking
     npm install
     ```
 
