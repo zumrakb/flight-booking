@@ -59,8 +59,9 @@ Bu proje [RENDER.com](https://render.com/) kullanılarak deploy edilmiştir. DEP
 
 
 ## Ekran Görüntüleri
+Loading ekranı
+![image](https://github.com/user-attachments/assets/79cf1bca-4b80-4c58-a912-32eaddc52d6c)
 
-_Ekran görüntüleri eklenebilir._
 
 ## Lisans
 
