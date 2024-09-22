@@ -1,0 +1,30 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  margin: 0;
+  @apply bg-gray-100;
+}
+
+.menu-link .anticon {
+  display: flex;
+  justify-content: center;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  body {
+    overflow: auto;
+  }
+  .search-card .text-lg {
+    font-size: 1rem;
+  }
+  .search-card .trip-options {
+    margin-top: 2.5rem;
+    font-size: 0.5rem;
+  }
+}
